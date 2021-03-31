@@ -8,9 +8,9 @@ Client wanted a codebase that follows accessibility standards so that their site
 
 I added a title to the webpage, changing it from a generic 'website' to 'Horiseon' after the company. 
 
-Instead of a plethora of <divs>, I changed the approriate <divs> to <header>, <footer>, <section>, and <aside>. 
+Instead of a plethora of divs, I changed the approriate divs to header, footer, section, and aside. 
 
-I added an id attribute to the 'search-engine-optimization' <section> in order for the link in the header to function properly.
+I added an id attribute to the 'search-engine-optimization' section in order for the link in the header to function properly.
 
 I commented on all changed code.
 
